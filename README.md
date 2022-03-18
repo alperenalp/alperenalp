@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <!--
 To hide any specific stats, you can pass a query parameter ?hide= with comma-separated values.
 Options: &hide=stars,commits,prs,issues,contribs 
--->
 /n
+-->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperenalp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
