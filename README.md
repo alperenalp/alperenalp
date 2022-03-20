@@ -1,3 +1,4 @@
+![Visitor Count](https://profile-counter.glitch.me/alperenalp/count.svg)
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
