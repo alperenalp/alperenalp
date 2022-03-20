@@ -1,5 +1,6 @@
-![Visitor Count](https://profile-counter.glitch.me/alperenalp/count.svg)
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=alperenalp&color=blue&style=flat-square)
+
+### Hi there 👋 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
