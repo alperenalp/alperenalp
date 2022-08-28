@@ -13,8 +13,6 @@ I love the developing creative websites. I love spending time to meet new people
 
 - <a href="https://www.linkedin.com/in/alperen-alp/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Alperen | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/alprn.lp"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Alperen | Instagram" width="21px"/></a>
-
-</br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
@@ -34,7 +32,7 @@ I love the developing creative websites. I love spending time to meet new people
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
 </br>
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![](https://img.shields.io/badge/Style-Ant-Design-informational?style=flat&logo=ant-design&logoColor=white)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 </br>
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
