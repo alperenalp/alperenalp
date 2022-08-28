@@ -8,7 +8,8 @@
 - 🤔 I’m looking for help with everyone
 - 💬 Ask me about everythink
 - 📫 How to reach me:
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
@@ -24,3 +25,6 @@ Options: &hide=stars,commits,prs,issues,contribs
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperenalp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+[4]: https://www.linkedin.com/in/alperen-alp
+
