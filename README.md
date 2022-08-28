@@ -37,7 +37,6 @@ I like the developing creative websites. I am also interested in Artificial Inte
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-Ant%20Design-1890FF?style=flat&logo=antdesign&logoColor=white)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-
 </br>
 ![](https://img.shields.io/badge/ML/DL-TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![](https://img.shields.io/badge/ML/DL-scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
