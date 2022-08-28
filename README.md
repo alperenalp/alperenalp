@@ -7,7 +7,7 @@ Hi there, I'm <a target="_blank" rel="noreferrer">Alperen</a> 👋
 I'm a Junior Full-Stack Web Developer 💻 final year student at university 🧑‍🎓
 </h2> 
 
-I love the developing creative websites. I love spending time to meet new people. I love searching how people hide things and where people are likely to look.
+I like the developing creative websites. I like to read books 📚, ride a bike 🚴‍♂️, swim 🏊‍♂️, learn English 💬 and watch movies 🎥 in my spare time. I love searching how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
 
