@@ -26,7 +26,7 @@ I like the developing creative websites. I am also interested in Artificial Inte
 
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Framework-.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/Code-.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 ![](https://img.shields.io/badge/Code-java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
