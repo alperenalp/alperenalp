@@ -46,6 +46,11 @@ I like the developing creative websites. I am also interested in Artificial Inte
 ![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+</br>
+![](https://img.shields.io/badge/Database-mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Database-Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+![](https://img.shields.io/badge/Database-Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
+![](https://img.shields.io/badge/Database-Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
 
 
 ## 📈 GitHub Stats 
