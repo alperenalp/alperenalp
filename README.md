@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on anyone
 - 🤔 I’m looking for help with everyone
 - 💬 Ask me about everythink
-- 📫 How to reach me:<br/ >
+- 📫 How to reach me:<br />
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
