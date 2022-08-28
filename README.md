@@ -25,15 +25,22 @@ I like the developing creative websites. I am also interested in Artificial Inte
 -  Amazon DynamoDB database
 
 ## 💼 Technical Skills
-
+![](https://img.shields.io/badge/Code-c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/Code-java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
 </br>
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-Ant%20Design-1890FF?style=flat&logo=antdesign&logoColor=white)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+</br>
+![](https://img.shields.io/badge/Library-TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![](https://img.shields.io/badge/Library-scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/Library-pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Library-numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 </br>
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB)
