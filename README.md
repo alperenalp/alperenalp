@@ -21,8 +21,9 @@ I like the developing creative websites. I am also interested in Artificial Inte
 
 ## 🌱 I'm currently learning
 
+-  ASP.NET Core
 -  React.js
--  Amazon DynamoDB database
+-  Amazon DynamoDB Database
 
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
