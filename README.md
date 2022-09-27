@@ -17,7 +17,7 @@ I like the developing creative websites. I am also interested in Artificial Inte
 
 ## 🔭 I'm currently working on
 
--   Local Movies website for my learning React
+-   Log viewer application
 
 ## 🌱 I'm currently learning
 
