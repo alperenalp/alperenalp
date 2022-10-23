@@ -4,7 +4,7 @@ Hi there, I'm <a target="_blank" rel="noreferrer">Alperen</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Intern 💻 and final year student at university 🎓
+I'm a Full-Stack Developer Intern 💻 and final year student at university 🎓
 </h2> 
 
 I like the developing creative websites. I am also interested in Artificial Intelligence. I like to ride a bike 🚴‍♂️, swimming 🏊‍♂️, learn English 💬 and watch movies 🎥 in my spare time. I love searching how people hide things and where people are likely to look.
