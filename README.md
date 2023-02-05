@@ -19,7 +19,6 @@ I like the developing websites. I am also interested in Mobile Programming and A
 
 ## 🔭 I'm currently working on
 
--   Log viewer application
 -   Fenomenden e-commerce application
 
 ## 🌱 I'm currently learning
