@@ -23,7 +23,7 @@ I like the developing websites. I am also interested in Mobile Programming and A
 
 ## 🌱 I'm currently learning
 
--  ASP.NET Core
+-  .NET Core
 -  React.js
 
 ## 💼 Technical Skills
