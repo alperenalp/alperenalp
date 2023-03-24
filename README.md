@@ -5,11 +5,9 @@ I called myself a Backend Developer but as hobies I'm trying to learn another la
 
 ### 🤝 Connect with me:
 
-<a href="https://linkedin.com/in/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="mailto:alperen.alp045@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<!--
-<a href="https://instagram.com/alprn.lp"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Gmail" width="21px"/></a>
--->
+<a href="https://linkedin.com/in/alperen-alp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alperenalp" height="30" width="40" /></a>
+<a href="mailto:alperen.alp045@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="alperenalp" height="30" width="40" /></a>
+
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
@@ -47,10 +45,10 @@ I called myself a Backend Developer but as hobies I'm trying to learn another la
 
 
 ## 📈 GitHub Stats 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alperenalp&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
-
-![](https://komarev.com/ghpvc/?username=alperenalp&color=blue&style=flat-square)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alperenalp&show_icons=true&locale=en" alt="alperenalp" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperenalp&" alt="alperenalp" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenalp&show_icons=true&locale=en&layout=compact" alt="alperenalp" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=alperenalp&label=Profile%20views&color=0e75b6&style=flat" alt="alperenalp" /></p>
 
 
 <!--
@@ -60,7 +58,6 @@ To hide any specific stats, you can pass a query parameter ?hide= with comma-sep
 Options: &hide=stars,commits,prs,issues,contribs 
 /n
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperenalp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
 [4]: https://www.linkedin.com/in/alperen-alp
