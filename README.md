@@ -25,11 +25,11 @@ I called myself a Backend Developer but as hobies I'm trying to learn another la
 ![](https://img.shields.io/badge/Code-Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 </br>
+![](https://img.shields.io/badge/Style-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-Ant%20Design-1890FF?style=flat&logo=antdesign&logoColor=white)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 </br>
 ![](https://img.shields.io/badge/ML/DL-TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![](https://img.shields.io/badge/ML/DL-scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
