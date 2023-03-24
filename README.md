@@ -5,8 +5,8 @@ I called myself a Backend Developer but as hobies I'm trying to learn another la
 
 ### 🤝 Connect with me:
 
-- <a href="https://www.linkedin.com/in/alperen-alp/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Alperen | LinkedIn" width="21px"/></a>
-- <a href="mailto:alperen.alp045@gmail.com"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/gmail.svg" alt="Alperen | Instagram" width="21px"/></a>
+<a href="https://linkedin.com/in/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="mailto:alperen.alp045@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <!--
 <a href="https://instagram.com/alprn.lp"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Gmail" width="21px"/></a>
 -->
@@ -19,16 +19,14 @@ I called myself a Backend Developer but as hobies I'm trying to learn another la
 ## 🌱 I'm currently learning
 
 -  .NET Core
--  React.js
+-  React
+-  Angular
 
 ## 💼 Technical Skills
-![](https://img.shields.io/badge/Code-c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Code-.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/Code-java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Code-C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/Code-Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 </br>
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
@@ -46,7 +44,6 @@ I called myself a Backend Developer but as hobies I'm trying to learn another la
 ![](https://img.shields.io/badge/Database-mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Database-Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![](https://img.shields.io/badge/Database-Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
-![](https://img.shields.io/badge/Database-Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
 
 
 ## 📈 GitHub Stats 
