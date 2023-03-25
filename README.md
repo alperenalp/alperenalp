@@ -45,23 +45,8 @@ I called myself a Backend Developer but as hobies I'm trying to learn another la
 
 
 ## 📈 GitHub Stats 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alperenalp&show_icons=true&locale=en" alt="alperenalp" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperenalp&" alt="alperenalp" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenalp&show_icons=true&locale=en&layout=compact" alt="alperenalp" /></p>
-<p><img src="https://komarev.com/ghpvc/?username=alperenalp&label=Profile%20views&color=0e75b6&style=flat" alt="alperenalp" /></p>
-
-
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alperenalp&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
-
-To hide any specific stats, you can pass a query parameter ?hide= with comma-separated values.
-Options: &hide=stars,commits,prs,issues,contribs 
-/n
-
-
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
-[4]: https://www.linkedin.com/in/alperen-alp
--->
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alperenalp&show_icons=true&locale=en" alt="alperenalp" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenalp&show_icons=true&locale=en&layout=compact" alt="alperenalp" /></p>
+<p><img align="center" src="https://komarev.com/ghpvc/?username=alperenalp&label=Profile%20views&color=0e75b6&style=flat" alt="alperenalp" /></p>
 
 
