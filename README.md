@@ -12,11 +12,10 @@ I called myself a Backend Developer but as hobies I'm trying to learn another la
 
 ## 🔭 I'm currently working on
 
--   E-commerce application
+-   
 
 ## 🌱 I'm currently learning
 
--  .NET Core
 -  Angular
 
 ## 💼 Technical Skills
