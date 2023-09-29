@@ -16,7 +16,7 @@ I called myself a Backend Developer but as hobies I'm trying to learn another la
 
 ## 🌱 I'm currently learning
 
--  Angular
+- 
 
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
