@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Alperen Alp👋</h1>
-<h3 align="center">I'm a Software Developer candidate 💻 and final year student at university 🎓</h3>
+<h3 align="center">I'm a Jr. Software Developer 💻</h3>
 
 I called myself a Backend Developer but as hobies I'm trying to learn another languages or technologies. I'm mostly using C# for my personal projects.
 
